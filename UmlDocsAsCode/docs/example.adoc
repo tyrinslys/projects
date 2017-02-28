@@ -1,0 +1,53 @@
+= Example plantUML
+Tiris Valinlore <doc.writer@example.org>
+2017-02-27
+:revnumber: {project-version}
+:example-caption!:
+ifndef::imagesdir[:imagesdir: images]
+ifndef::sourcedir[:sourcedir: ../java]
+
+This is a user manual for an example project.
+
+PlantUML doesn't seem to work at the moment, unless ...
+[plantuml, diagram-classes, png]
+....
+class BlockProcessor
+class DiagramBlock
+class DitaaBlock
+class PlantUmlBlock
+
+BlockProcessor <|-- DiagramBlock
+DiagramBlock <|-- DitaaBlock
+DiagramBlock <|-- PlantUmlBlock
+....
+
+
+You disable graphiz in one and it seems to disable it for all. disable using `!pragma graphviz_dot jdot`
+
+[plantuml, diagram-classes, png]
+....
+!pragma graphviz_dot jdot
+class BlockProcessor
+class DiagramBlock
+class DitaaBlock
+class PlantUmlBlock
+
+BlockProcessor <|-- DiagramBlock
+DiagramBlock <|-- DitaaBlock
+DiagramBlock <|-- PlantUmlBlock
+....
+
+So from here it looks like you can take anything from http://plantuml.com/ and replace the @startUML and @stopuml  and replace it with the asciidoc-diagram enclosing block and you should be good to go.
+
+[plantuml, diagram-sequence, png]
+....
+actor Foo1
+boundary Foo2
+control Foo3
+entity Foo4
+database Foo5
+Foo1 -> Foo2 : To boundary
+Foo1 -> Foo3 : To control
+Foo1 -> Foo4 : To entity
+Foo1 -> Foo5 : To database
+....
