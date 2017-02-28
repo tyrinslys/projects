@@ -1,0 +1,28 @@
+plugins {
+    id "org.asciidoctor.gradle.asciidoctor" version "1.5.1"
+    id 'org.asciidoctor.convert' version '1.5.3'
+    id 'com.github.jruby-gradle.base' version '1.4.0'
+}
+
+apply plugin: 'java'
+apply plugin: 'org.asciidoctor.convert'
+apply plugin: "org.asciidoctor.gradle.asciidoctor"
+apply plugin: "com.github.jruby-gradle.base"
+
+version = '1.0.0-SNAPSHOT'
+
+dependencies {
+    gems group: 'rubygems', name: 'asciidoctor-diagram', version: '1.5.4'
+}
+
+
+asciidoctor {
+  dependsOn jrubyPrepare
+  requires = ['asciidoctor-diagram']
+  gemPath = jrubyPrepare.outputDir
+  sourceDir = file('docs')
+  sources {
+    include '*.adoc'
+  }
+  outputDir = file('build/docs')
+}
