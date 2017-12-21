@@ -1,7 +1,7 @@
 = Taco Chili Blues
 
 This chili is easy. Most things can come from a can.
-Wendy makes the <<TacoSeasoning.adoc,taco seasoning>> special for this dish, but you can just pick one from the store.
+Wendy makes the <<TacoSeasoning.adoc#taco-seasoning,taco seasoning>> special for this dish, but you can just pick one from the store.
 Thick blue tortilla chips work best for scooping and are tasty.
 
 == Ingredients
