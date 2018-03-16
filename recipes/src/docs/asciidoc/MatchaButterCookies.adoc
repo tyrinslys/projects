@@ -1,0 +1,29 @@
+= Matcha Butter Cookies
+
+I made something like these before and didn't write the recipe down. These were made as a St. Patrick's day cookie.
+This recipe is based on the https://www.goodreads.com/book/show/3931154-ratio[Ratio] book 1.2.3. shortbread cookie and comes in two parts that are flattened separately and combined to make colorful cookies.
+
+== Ingredients:
+
+=== Matcha Cookie Part:
+
+ * 0.7 grams salt (1/8 tsp)
+ * 56.5 grams sugar
+ * 113 grams butter
+ * 56.5 grams matcha powder
+ * 113 grams flour
+ 
+=== Normal Cookie Part:
+
+ * 0.7 grams salt (1/8 tsp)
+ * 56.5 grams sugar
+ * 113 grams butter 
+ * 169.5 grams flour
+ 
+== Directions:
+
+ 1. mix in order: butter; sugar, salt; matcha; flour;
+ 1. roll out
+ 1. lay on top of each other and roll more
+ 1. cut into strips
+ 1. make shamrock knot shapes
