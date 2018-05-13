@@ -3,6 +3,8 @@
 I made something like these before and didn't write the recipe down. These were made as a St. Patrick's day cookie.
 This recipe is based on the https://www.goodreads.com/book/show/3931154-ratio[Ratio] book 1.2.3. shortbread cookie and comes in two parts that are flattened separately and combined to make colorful cookies.
 
+These cookies turn out buttery, sweet, and bitter.
+
 == Ingredients:
 
 === Matcha Cookie Part:
@@ -29,6 +31,7 @@ This recipe is based on the https://www.goodreads.com/book/show/3931154-ratio[Ra
  1. make shamrock knot shapes
 
 
- == Experiments
+== Experiments
  
  1. Replace matcha powder with cinnamon. This should make a more familiar treat for the US masses.
+ 1. Replace matcha powder with beet powder. This will make a pretty cookie for Valentine's day.
