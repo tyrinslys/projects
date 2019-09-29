@@ -1,8 +1,9 @@
 = Apple Pie Bars
+
 This looks good, lets try them.
 
-==Ingredients
-===For the crust:
+== Ingredients
+=== For the crust:
  * 1 pound (4 sticks) unsalted butter, at room temperature
  * 3/4 cup granulated sugar
  * 1/2 cup light brown sugar, lightly packed
@@ -12,7 +13,7 @@ This looks good, lets try them.
  * 1/2 cup chopped walnuts
  * 1 teaspoon ground cinnamon
 
-===For the apple filling:
+=== For the apple filling:
  * 1 1/2 pounds Granny Smith apples, peeled, quartered, cored, and sliced 1/8 inch thick (3 large)
  * 1 1/2 pounds Golden Delicious apples, peeled, quartered, cored, and sliced 1/8 inch thick (3 large)
  * 2 tablespoons freshly squeezed lemon juice
@@ -21,7 +22,7 @@ This looks good, lets try them.
  * 1/8 teaspoon ground nutmeg
  * 4 tablespoons (1/2 stick) unsalted butter
 
-==Directions
+== Directions
  1. Preheat the oven to 375 degrees.
  1.    For the crust, place the butter, granulated sugar, brown sugar, and vanilla in the bowl of an electric mixer fitted with the paddle attachment and beat on medium speed for 2 minutes, until light and creamy. Sift the flour and salt together and, with the mixer on low, slowly add to the butter-sugar mixture, beating until combined. Scatter two-thirds of the dough in clumps in a 9 x 13-inch baking pan and press it lightly with floured hands on the bottom and 1/2 inch up the sides. Refrigerate for 20 minutes. Bake for 18 to 20 minutes, until the crust is golden brown, and set aside to cool.
  1.    Meanwhile, put the mixing bowl with the remaining dough back on the mixer, add the walnuts and cinnamon, and mix on low speed to combine. Set aside.
