@@ -1,0 +1,25 @@
+= Template
+
+description
+
+Makes ???
+
+== Ingredients
+ * 1 quanity of something
+ * 1 quanity of something else
+ * 1/2 quanity of something even different (optional)
+
+
+== Directions
+ 1. Preheat oven at 350 degrees F
+ 1. grease pan
+ 1. Mix dry
+ 1. Mix wet
+ 1. Mix together.
+ 1. put in the ovent for some time.
+
+== Notes
+ * something I may think of when making the recipe.
+
+== Reference
+Some link to the original, maybe with some reason I changed it or originally liked it?
