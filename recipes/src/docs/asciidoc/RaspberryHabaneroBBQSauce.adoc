@@ -1,0 +1,39 @@
+= Raspberry Habanero BBQ sauce
+
+This is something I'm testing out. I've seen some recipes that use raspberry 
+preserves but that ingredient doesn't really have a lot of berries. The general
+idea is, more berries, less sugar, and a nice spice level. For heat I'm going for
+pleasantly warm.
+
+Makes ???
+
+== Ingredients
+* 2 cups of Raspberries fresh/frozen
+* 1 tablespoon molasses
+* 1/4 cup apple cider vinegar
+* 2 habanero peppers (with seeds)
+* 2 cloves garlic, minced
+* 1 tablespoon Worcestershire sauce
+* 1 tablespoon Dijon mustard
+* 1 tablespoon soy sauce
+* 1 tablespoon lemon juice
+* 1/2 teaspoon salt
+* 1/2 teaspoon black pepper
+
+
+== Directions
+1. In a saucepan, combine all of the ingredients.
+1. Place the saucepan over medium heat and bring the mixture to a simmer.
+1. Reduce the heat to low and let the sauce simmer for about 10 minutes, stirring occasionally.
+1. Remove the sauce from the heat and let it cool slightly.
+1. Transfer the sauce to a blender or food processor and blend until smooth.
+1. Strain the sauce through a fine-mesh sieve to remove any seeds.
+1. Let the sauce cool completely before using.
+
+== Notes
+* may need more sugar... planning to add to taste at the end.
+* most other BBQ sauce recipes have ketchup ... not sure I'll add tho.
+
+== Reference
+based on https://www.barefootfarmbyron.com/raspberry-habanero-bbq-sauce-recipe/
+with other ideas from the internet and my preferences.
