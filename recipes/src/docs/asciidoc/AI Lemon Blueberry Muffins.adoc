@@ -1,0 +1,45 @@
+= AI Lemon Blueberry Muffins
+
+I needed to use up 2 lemons and so asked copilot to get me a recipe. We will see how this turns out. 
+
+Makes ???
+
+== Ingredients:
+- 2 lemons (juice and zest)
+- 1 cup granulated sugar
+- 2 cups all-purpose flour
+- 2 teaspoons baking powder
+- 1/2 teaspoon baking soda
+- 1/2 teaspoon salt
+- 1/2 cup unsalted butter (softened)
+- 2 large eggs
+- 1 teaspoon vanilla extract
+- 1 cup Greek yogurt
+- 1 1/2 cups fresh or frozen blueberries
+- Optional: powdered sugar for dusting
+
+== Instructions:
+1. Preheat your oven to 375°F (190°C). Line a muffin tin with paper liners or grease with butter.
+2. In a bowl, combine the granulated sugar and lemon zest. Rub together with your fingers to release the lemon oils and infuse the sugar with a lemony aroma.
+3. In another bowl, whisk together the flour, baking powder, baking soda, and salt.
+4. In a larger mixing bowl, beat the softened butter and lemon-sugar mixture until light and fluffy.
+5. Add eggs, one at a time, beating well after each addition. Mix in the vanilla extract and lemon juice.
+6. Gradually add the flour mixture to the butter mixture, alternating with the Greek yogurt, beginning and ending with the flour mixture.
+7. Gently fold in the blueberries, being careful not to overmix.
+8. Divide the batter evenly among the prepared muffin cups.
+9. Bake for 20-25 minutes, or until a toothpick inserted into the center of a muffin comes out clean.
+10. Let the muffins cool in the tin for a few minutes before transferring to a wire rack to cool completely.
+11. If desired, dust the cooled muffins with 
+
+== Notes
+ * I'm not a fan of muffins so making this in a cake pan... baking at 350 deg F
+
+== Reference
+I asked copilot for a source and this was the response.
+
+The Lemon Blueberry Muffins recipe is a delightful combination of classic baking techniques and a touch of creativity. It’s inspired by traditional muffin recipes with a zesty twist from the lemons and the burst of flavor from the blueberries. While I didn’t pull this exact recipe from a specific source, it incorporates widely known methods and ingredients used in baking muffins.
+
+If you're looking for more detailed, sourced recipes, websites like AllRecipes, Food Network, or BBC Good Food are great places to explore. They have a plethora of recipes with detailed instructions and user reviews.
+
+Happy baking! 🍋🫐✨ If you have any other questions or need more ideas, I'm here to help.
+
